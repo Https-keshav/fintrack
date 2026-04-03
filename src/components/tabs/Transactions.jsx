@@ -1,4 +1,4 @@
-import CategoryBadge from "../Categorybadge";
+import CategoryBadge from "../CategoryBadge";
 import { fmt } from "../../utils/format";
 import { EXPENSE_CATS } from "../../data/seed";
 
